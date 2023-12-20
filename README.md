@@ -1,5 +1,4 @@
-This is my project for the Spring-Advanced course from the Java-Web module in Softuni.
-This is a simple online computer game store. 
-Roles are implemented using spring security. Users can register, login, browse games and review them.
-A simple shopping cart functionality lets the user pick their favourite games and make an order. 
+This is my Spring MVC project for the Java-Web module in Softuni.
+It is a simple online computer game store with shopping cart functionality. 
+Authentication and authorization is implemented using Spring Security. Users can register, login, browse games and review them.
 Admin role can add new games, edit them, delete them and see all orders made by users.
